@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import sqlite3
 
-#-----------------------------BANCO DE DADOS SQLITE2------------------------------
+#-----------------------------BANCO DE DADOS SQLITE3------------------------------
 class SistemaGestaoHoteleira:
     def __init__(self, arquivo_banco_dados):
         self.arquivo_banco_dados = arquivo_banco_dados
